@@ -1,0 +1,13 @@
+.clear{
+  display: flex;
+  height: 4em;
+  margin: 20px;
+  flex: 1;
+  padding: 0.1em;
+  font-weight: bold;
+  font-size: 1.4em;
+  justify-content: center;
+  align-items: center;
+  outline: 1px solid #888;
+  color: grey; /* align-items centers the text inside of a box, for example.*/
+}

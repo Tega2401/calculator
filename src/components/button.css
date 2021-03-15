@@ -1,0 +1,18 @@
+.button{
+  display: flex;
+  height: 3.099em;
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  font-size: 1.4em;
+  background: #e0e1e6;
+  color: #888;
+  margin: auto;
+
+  display: flex;
+  width: 100px;
+  height: 100px;
+  background-color: black;
+  border-radius: 50%;
+}
